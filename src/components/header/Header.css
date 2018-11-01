@@ -1,0 +1,113 @@
+.main-header {
+  width: 100%;
+  height: 250px;
+  background: rgb(50, 129, 208);
+}
+
+.logotype {
+  margin-left: -30px;
+  margin-top: -10px;
+
+}
+
+@keyframes google {
+    0%   {margin-top: -81px;}
+    100% {margin-top: -10px;}
+}
+
+
+.navigation-wrapper {
+  text-align: right;
+  max-width: 100%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: 1500;
+}
+
+.navbar {
+  margin-top: -30px;
+}
+
+.navbar-toggler:focus {
+  outline: 0;
+}
+
+.dropbutton {
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+.search-wrapper {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: -50px;
+  outline: none;
+
+}
+
+.search-bar {
+  max-width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.form-control {
+  border: none;
+}
+
+.search-button {
+  height: 36px;
+}
+
+.settings-wrapper {
+  margin-right: 30px;
+  margin-bottom: -30px;
+  font-size: 1.5em;
+}
+
+.user-wrapper {
+  margin-right: 0px;
+  padding-bottom: 20px;
+  background-color: rgb(50, 129, 208);
+}
+
+.userName {
+  margin: 0 auto;
+  text-align: left;
+  color: #212529;
+  margin-left: 30px;
+}
+
+.dropbutton {
+  width: 130px;
+}
+
+.dropdown-menu {
+  padding-top: 30px;
+  border: none;
+  max-width: 170px;
+  margin: 0 auto;
+}
+
+.dropdown-item {
+  margin: 0 auto;
+  max-width: 170px;
+  opacity: 0.7;
+}
+
+.dropdown-item:hover {
+  background-color: black;
+  color: white;
+  opacity: 1;
+}
+
+.help {
+  margin-left: 30px;
+}
+
+a {
+ cursor: pointer;
+}

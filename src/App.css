@@ -1,32 +1,39 @@
+@import './Normalize.css';
+@import './Globals.css';
+@import './Grid.css';
+@import './components/assignment/Assignment.css';
+@import './components/calendar/Calendar.css';
+@import './components/catalogue/Catalogue.css';
+@import './components/header/Header.css';
+@import './components/help/Help.css';
+@import './components/indexes/Indexes.css';
+@import './components/invoice/Invoice.css';
+@import './components/mycompany/Mycompany.css';
+@import './components/navmenu/Navmenu.css';
+@import './components/products/Products.css';
+@import './components/statistics/Statistics.css';
+@import './components/timesheet/Timesheet.css';
+@import './components/user/User.css';
+@import './components/home/Home.css';
+@import './components/help/Help.css';
+@import './components/footer/Footer.css';
+@import './components/coworkers/Coworkers.css';
+
 .App {
   text-align: center;
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif;
+  min-height: 100%;
+  background-color: RGB(118, 181, 255);
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.main-container {
+  max-width: 100%;
+  text-align: center;
+  margin: 0 auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-link {
+  font-weight: normal;
+  cursor: pointer;
 }

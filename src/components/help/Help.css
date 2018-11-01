@@ -1,0 +1,11 @@
+.help-wrapper {
+  margin-top: 100px;
+  min-height: 1500px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.help-text {
+  font-size: 5em;
+  color: black;
+}

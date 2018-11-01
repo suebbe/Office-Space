@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/39312100/47848080-75409100-ddcd-11e8-9549-fad619bec6be.png)
+![image](https://user-images.githubusercontent.com/39312100/47848126-9903d700-ddcd-11e8-9fde-dce141bff36e.png)
+![image](https://user-images.githubusercontent.com/39312100/47848149-b5077880-ddcd-11e8-911d-22023ed1bc60.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

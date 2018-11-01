@@ -1,0 +1,19 @@
+.coworkers-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding-bottom: 100px;
+  background-image: linear-gradient(RGB(118, 181, 255) 30%, white);
+}
+
+.card-wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.card {
+  max-width: 18rem;
+  min-width: 16rem;
+  margin: 0 auto;
+  border: none;
+}

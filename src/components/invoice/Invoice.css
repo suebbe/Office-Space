@@ -1,0 +1,7 @@
+.invoice-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding-bottom: 100px;
+  background-image: linear-gradient(RGB(118, 181, 255) 30%, white);
+}
